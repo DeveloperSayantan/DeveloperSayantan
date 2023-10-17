@@ -1,5 +1,5 @@
 # *Hi there, Welcome to my GitHub* 👋
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Sayantan+👋;Full+stack+web+developer...;Java+Enthusiast...;Techie...;Open+Source+Contributor..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=28&center=false&lines=hey!+its+Sayantan+👋;Full+stack+web+developer...;Java+Enthusiast...;Techie..."/>
 
 <p>- <i>A Comp-Application graduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code.</i></p>
 
