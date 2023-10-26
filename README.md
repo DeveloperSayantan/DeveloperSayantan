@@ -20,9 +20,11 @@
 
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />&nbsp;
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />&nbsp;
+<img align="left" alt="BootStrap" width="30px" src="https://avatars.githubusercontent.com/u/2918581?v=4" />&nbsp;
 <img align="left" alt="Java" width="40px" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" />&nbsp;
 <img align="left" alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />&nbsp;
 <img align="left" alt="Spring" width="50px" src="https://www.svgrepo.com/show/354379/spring.svg" />&nbsp;
+
 <br><br>
 ## *Tools*:
 <img align="left" alt="Eclipse" width="35px" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" />&nbsp;
