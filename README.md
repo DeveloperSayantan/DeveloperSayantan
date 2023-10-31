@@ -18,20 +18,21 @@
   <br/>
 ## *Languages & Framworks*:
 
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />&nbsp;
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />&nbsp;
-<img align="left" alt="BootStrap" width="30px" src="https://avatars.githubusercontent.com/u/2918581?v=4" />&nbsp;
-<img align="left" alt="Java" width="40px" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" />&nbsp;
-<img align="left" alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />&nbsp;
-<img align="left" alt="Spring" width="50px" src="https://www.svgrepo.com/show/354379/spring.svg" />&nbsp;
+<img alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />&nbsp;&nbsp;
+<img alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />&nbsp;&nbsp;
+<img alt="BootStrap" width="30px" src="https://avatars.githubusercontent.com/u/2918581?v=4" />&nbsp;&nbsp;
+<img alt="Java" width="40px" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" />&nbsp;&nbsp;
+<img alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />&nbsp;&nbsp;
+<img alt="Spring" width="50px" src="https://www.svgrepo.com/show/354379/spring.svg" />&nbsp;&nbsp;
 
 <br><br>
 ## *Tools*:
-<img align="left" alt="Eclipse" width="35px" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" />&nbsp;
-<img align="left" alt="MySql" width="50px" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" />&nbsp;
-<img align="left" alt="Postgres" width="35px" src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" />&nbsp;
-<img align="left" alt="PostMan" width="30px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />&nbsp;
-<img align="left" alt="Visual Studio Code" width="30px" src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" />&nbsp;
+<img  alt="Eclipse" width="35px" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" />&nbsp;&nbsp;
+<img  alt="MySql" width="50px" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" />&nbsp;&nbsp;
+<img  alt="Postgres" width="35px" src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" />&nbsp;&nbsp;
+<img  alt="PostMan" width="30px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />&nbsp;&nbsp;
+<img  alt="Visual Studio Code" width="30px" src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" />&nbsp;&nbsp;
+<img  alt="STS" width="30px" src="https://www.svgrepo.com/show/354380/spring-icon.svg" />&nbsp;&nbsp;
 
 
 </br></br>
